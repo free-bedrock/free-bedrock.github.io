@@ -1,1 +1,1 @@
-# free-bedrock.github.io
+# Free and open source Minecraft Bedrock content
