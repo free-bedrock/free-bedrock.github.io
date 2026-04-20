@@ -27,9 +27,17 @@ const ADDONS = [
     id: "better-achievements",
     title: "Better Achievements",
     category: "quality-of-life",
-    shortDesc: "Full achievement system with toasts and a custom screen.",
+    shortDesc: "Per-world bedrock achievement system with custom screen.",
     version: "3.0.0",
     url: "addons/better-achievements.html"
+  },
+  {
+    id: "casual-collection",
+    title: "Casual Collection",
+    category: "casual",
+    shortDesc: "xxx",
+    version: "1.0.0",
+    url: "addons/casual-example.html"
   }
 ];
 
